@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Designing
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working on MERN Stack development
 - 💬 Ask me about Web Designing
 - ⚡ Fun fact: Grew up in Pakistan, I've never tasted...
