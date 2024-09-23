@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN Stack development
 - 💬 Ask me about Web Designing
-- ⚡ Fun fact: Grew up in Pakistan, I've never tasted...
+- ⚡ Fun fact: Grew up in Pakistan, can't pronounce department
